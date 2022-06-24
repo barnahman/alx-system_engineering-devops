@@ -1,0 +1,5 @@
+#!/bin/bash
+pwd
+echo C-x C-s
+1-listit
+echo C-x C-c
