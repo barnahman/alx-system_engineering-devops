@@ -1,1 +1,1 @@
-we are sysbols, and inhabit sysbols
+we are symbols, and inhabit symbols
